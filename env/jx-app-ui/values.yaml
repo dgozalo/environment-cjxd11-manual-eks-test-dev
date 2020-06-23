@@ -1,0 +1,8 @@
+jxui:
+  enableTLS: true
+  ingress:
+    create: true
+    domain: cjxd-11.cdx-dev.beescloud.com
+    subdomain: dashboard
+  sso:
+    create: false
