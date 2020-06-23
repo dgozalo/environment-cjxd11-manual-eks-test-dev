@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: dgozalo
+  repo: gocjxd11test1
+  url: https://github.com/dgozalo/gocjxd11test1.git
+  version: ""
+  versionURL: ""
